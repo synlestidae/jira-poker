@@ -1,0 +1,14 @@
+{
+  "name": "jira-poker",
+  "version": "0.0.1",
+  "description": "A utility for playing planning poker and pushing the result to your Jira server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maté Antunovic",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1"
+  }
+}
