@@ -9,6 +9,9 @@
   "author": "Maté Antunovic",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.17.1"
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "node-fetch": "^1.6.3",
+    "readline": "^1.3.0"
   }
 }
